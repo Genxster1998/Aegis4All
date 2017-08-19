@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">تنظیمات</string>
+    <string name="loading">در حال بارگزاری\u2026</string>
+    <string name="warden_force_stop_title">توقف اجباری</string>
+</resources>

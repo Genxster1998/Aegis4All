@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/home/karan/Workspace/AndroidStudioProjects/Aegis/app/build/intermediates/res/merged/debug/layout/preference_category_material.xml",
+        "source": "/home/karan/Workspace/AndroidStudioProjects/Aegis/app/src/main/res/layout/preference_category_material.xml"
+    },
+    {
+        "merged": "/home/karan/Workspace/AndroidStudioProjects/Aegis/app/build/intermediates/res/merged/debug/layout/preference_permissions_switch.xml",
+        "source": "/home/karan/Workspace/AndroidStudioProjects/Aegis/app/src/main/res/layout/preference_permissions_switch.xml"
+    },
+    {
+        "merged": "/home/karan/Workspace/AndroidStudioProjects/Aegis/app/build/intermediates/res/merged/debug/layout/permissions_main.xml",
+        "source": "/home/karan/Workspace/AndroidStudioProjects/Aegis/app/src/main/res/layout/permissions_main.xml"
+    },
+    {
+        "merged": "/home/karan/Workspace/AndroidStudioProjects/Aegis/app/build/intermediates/res/merged/debug/layout/preference_permissions.xml",
+        "source": "/home/karan/Workspace/AndroidStudioProjects/Aegis/app/src/main/res/layout/preference_permissions.xml"
+    },
+    {
+        "merged": "/home/karan/Workspace/AndroidStudioProjects/Aegis/app/build/intermediates/res/merged/debug/layout/fragment_main.xml",
+        "source": "/home/karan/Workspace/AndroidStudioProjects/Aegis/app/src/main/res/layout/fragment_main.xml"
+    },
+    {
+        "merged": "/home/karan/Workspace/AndroidStudioProjects/Aegis/app/build/intermediates/res/merged/debug/layout/permissions_frame.xml",
+        "source": "/home/karan/Workspace/AndroidStudioProjects/Aegis/app/src/main/res/layout/permissions_frame.xml"
+    },
+    {
+        "merged": "/home/karan/Workspace/AndroidStudioProjects/Aegis/app/build/intermediates/res/merged/debug/layout/loading_container.xml",
+        "source": "/home/karan/Workspace/AndroidStudioProjects/Aegis/app/src/main/res/layout/loading_container.xml"
+    }
+]
