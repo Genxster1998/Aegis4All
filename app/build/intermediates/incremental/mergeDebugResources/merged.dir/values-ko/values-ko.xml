@@ -1,26 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="action_settings">설정</string>
-    <string name="app_name">이지스</string>
-    <string name="hibernate_allow_list_category_title">화면이 꺼지면 앱 절전 모드 사용</string>
-    <string name="hibernate_category_title">절전 모드 고급 설정</string>
-    <string name="hibernate_deny_list_category_title">화면이 꺼지면 앱 절전 모드 사용 안함</string>
-    <string name="hibernate_title">절전 모드</string>
-    <string name="hibernate_wakeup_summary">화면이 켜지면 앱 절전 모드에서 깨우기</string>
-    <string name="hibernate_wakeup_title">깨우기</string>
-    <string name="loading">로딩 중\u2026</string>
-    <string name="no_apps">앱 없음</string>
-    <string name="pacifier_allow_list_category_title">응용 프로그램을 중지하고 연결된 앱에 브로드 캐스트를 보낼 수 있도록 허용</string>
-    <string name="pacifier_analyzing">앱 동작을 분석, 나중에 다시 확인하세요</string>
-    <string name="pacifier_deny_list_category_title">중지와 연결된 앱에 방송을 보내는 응용 프로그램을 방지</string>
-    <string name="pacifier_title">브로드캐스트</string>
-    <string name="wakelock_allow_list_category_title">켜짐 유지 허용</string>
-    <string name="wakelock_deny_list_category_title">켜짐 유지 차단</string>
-    <string name="wakelock_title">켜짐 유지</string>
-    <string name="warden_allow_list_category_title">앱이 실행 중이지 않을 때도 백그라운드 서비스 사용을 허락</string>
-    <string name="warden_category_title">감시 고급 설정</string>
-    <string name="warden_deny_list_category_title">앱이 실행 중이지 않으면 백그라운드 서비스도 차단</string>
-    <string name="warden_force_stop_summary">강제로 종료할 때 제한 된 응용 프로그램 중지</string>
-    <string name="warden_force_stop_title">강제 중지</string>
-    <string name="warden_title">감시</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"홈 탐색"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"위로 탐색"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"옵션 더보기"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"완료"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"전체 보기"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"앱 선택"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"사용 안함"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"사용"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"검색..."</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"검색어 삭제"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"검색어"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"검색"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"검색어 보내기"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"음성 검색"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"공유 대상"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"%s와(과) 공유"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"접기"</string>
+    <string msgid="146198913615257606" name="search_menu_title">"검색"</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
 </resources>
