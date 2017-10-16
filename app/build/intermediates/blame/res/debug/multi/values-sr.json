@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/home/karan/Workspace/AndroidStudioProjects/Aegis4All2/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sr/values-sr.xml",
+        "outputFile": "/home/ashar/AndroidStudioProjects/Aegis/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sr/values-sr.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 159
                 },
                 "from": {
-                    "file": "/home/karan/.android/build-cache/0ac7950fc10e70a42836d16e8d4e817da4df2e82/output/res/values-sr/values-sr.xml",
+                    "file": "/home/ashar/.android/build-cache/de1f6672323080524da9b30b0a2c2fe30952757f/output/res/values-sr/values-sr.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 267
                 },
                 "from": {
-                    "file": "/home/karan/.android/build-cache/0ac7950fc10e70a42836d16e8d4e817da4df2e82/output/res/values-sr/values-sr.xml",
+                    "file": "/home/ashar/.android/build-cache/de1f6672323080524da9b30b0a2c2fe30952757f/output/res/values-sr/values-sr.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 390
                 },
                 "from": {
-                    "file": "/home/karan/.android/build-cache/0ac7950fc10e70a42836d16e8d4e817da4df2e82/output/res/values-sr/values-sr.xml",
+                    "file": "/home/ashar/.android/build-cache/de1f6672323080524da9b30b0a2c2fe30952757f/output/res/values-sr/values-sr.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -68,7 +68,7 @@
                     "endOffset": 493
                 },
                 "from": {
-                    "file": "/home/karan/.android/build-cache/0ac7950fc10e70a42836d16e8d4e817da4df2e82/output/res/values-sr/values-sr.xml",
+                    "file": "/home/ashar/.android/build-cache/de1f6672323080524da9b30b0a2c2fe30952757f/output/res/values-sr/values-sr.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -87,7 +87,7 @@
                     "endOffset": 599
                 },
                 "from": {
-                    "file": "/home/karan/.android/build-cache/0ac7950fc10e70a42836d16e8d4e817da4df2e82/output/res/values-sr/values-sr.xml",
+                    "file": "/home/ashar/.android/build-cache/de1f6672323080524da9b30b0a2c2fe30952757f/output/res/values-sr/values-sr.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -106,7 +106,7 @@
                     "endOffset": 685
                 },
                 "from": {
-                    "file": "/home/karan/.android/build-cache/0ac7950fc10e70a42836d16e8d4e817da4df2e82/output/res/values-sr/values-sr.xml",
+                    "file": "/home/ashar/.android/build-cache/de1f6672323080524da9b30b0a2c2fe30952757f/output/res/values-sr/values-sr.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -125,7 +125,7 @@
                     "endOffset": 789
                 },
                 "from": {
-                    "file": "/home/karan/.android/build-cache/0ac7950fc10e70a42836d16e8d4e817da4df2e82/output/res/values-sr/values-sr.xml",
+                    "file": "/home/ashar/.android/build-cache/de1f6672323080524da9b30b0a2c2fe30952757f/output/res/values-sr/values-sr.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -144,7 +144,7 @@
                     "endOffset": 907
                 },
                 "from": {
-                    "file": "/home/karan/.android/build-cache/0ac7950fc10e70a42836d16e8d4e817da4df2e82/output/res/values-sr/values-sr.xml",
+                    "file": "/home/ashar/.android/build-cache/de1f6672323080524da9b30b0a2c2fe30952757f/output/res/values-sr/values-sr.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -163,7 +163,7 @@
                     "endOffset": 988
                 },
                 "from": {
-                    "file": "/home/karan/.android/build-cache/0ac7950fc10e70a42836d16e8d4e817da4df2e82/output/res/values-sr/values-sr.xml",
+                    "file": "/home/ashar/.android/build-cache/de1f6672323080524da9b30b0a2c2fe30952757f/output/res/values-sr/values-sr.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -182,7 +182,7 @@
                     "endOffset": 1068
                 },
                 "from": {
-                    "file": "/home/karan/.android/build-cache/0ac7950fc10e70a42836d16e8d4e817da4df2e82/output/res/values-sr/values-sr.xml",
+                    "file": "/home/ashar/.android/build-cache/de1f6672323080524da9b30b0a2c2fe30952757f/output/res/values-sr/values-sr.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -201,7 +201,7 @@
                     "endOffset": 1156
                 },
                 "from": {
-                    "file": "/home/karan/.android/build-cache/0ac7950fc10e70a42836d16e8d4e817da4df2e82/output/res/values-sr/values-sr.xml",
+                    "file": "/home/ashar/.android/build-cache/de1f6672323080524da9b30b0a2c2fe30952757f/output/res/values-sr/values-sr.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -220,7 +220,7 @@
                     "endOffset": 1261
                 },
                 "from": {
-                    "file": "/home/karan/.android/build-cache/0ac7950fc10e70a42836d16e8d4e817da4df2e82/output/res/values-sr/values-sr.xml",
+                    "file": "/home/ashar/.android/build-cache/de1f6672323080524da9b30b0a2c2fe30952757f/output/res/values-sr/values-sr.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -239,7 +239,7 @@
                     "endOffset": 1369
                 },
                 "from": {
-                    "file": "/home/karan/.android/build-cache/0ac7950fc10e70a42836d16e8d4e817da4df2e82/output/res/values-sr/values-sr.xml",
+                    "file": "/home/ashar/.android/build-cache/de1f6672323080524da9b30b0a2c2fe30952757f/output/res/values-sr/values-sr.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -258,7 +258,7 @@
                     "endOffset": 1470
                 },
                 "from": {
-                    "file": "/home/karan/.android/build-cache/0ac7950fc10e70a42836d16e8d4e817da4df2e82/output/res/values-sr/values-sr.xml",
+                    "file": "/home/ashar/.android/build-cache/de1f6672323080524da9b30b0a2c2fe30952757f/output/res/values-sr/values-sr.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -277,7 +277,7 @@
                     "endOffset": 1574
                 },
                 "from": {
-                    "file": "/home/karan/.android/build-cache/0ac7950fc10e70a42836d16e8d4e817da4df2e82/output/res/values-sr/values-sr.xml",
+                    "file": "/home/ashar/.android/build-cache/de1f6672323080524da9b30b0a2c2fe30952757f/output/res/values-sr/values-sr.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -296,7 +296,7 @@
                     "endOffset": 1682
                 },
                 "from": {
-                    "file": "/home/karan/.android/build-cache/0ac7950fc10e70a42836d16e8d4e817da4df2e82/output/res/values-sr/values-sr.xml",
+                    "file": "/home/ashar/.android/build-cache/de1f6672323080524da9b30b0a2c2fe30952757f/output/res/values-sr/values-sr.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -315,7 +315,7 @@
                     "endOffset": 1783
                 },
                 "from": {
-                    "file": "/home/karan/.android/build-cache/0ac7950fc10e70a42836d16e8d4e817da4df2e82/output/res/values-sr/values-sr.xml",
+                    "file": "/home/ashar/.android/build-cache/de1f6672323080524da9b30b0a2c2fe30952757f/output/res/values-sr/values-sr.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -334,7 +334,7 @@
                     "endOffset": 1911
                 },
                 "from": {
-                    "file": "/home/karan/.android/build-cache/0ac7950fc10e70a42836d16e8d4e817da4df2e82/output/res/values-sr/values-sr.xml",
+                    "file": "/home/ashar/.android/build-cache/de1f6672323080524da9b30b0a2c2fe30952757f/output/res/values-sr/values-sr.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -353,7 +353,7 @@
                     "endOffset": 2008
                 },
                 "from": {
-                    "file": "/home/karan/.android/build-cache/0ac7950fc10e70a42836d16e8d4e817da4df2e82/output/res/values-sr/values-sr.xml",
+                    "file": "/home/ashar/.android/build-cache/de1f6672323080524da9b30b0a2c2fe30952757f/output/res/values-sr/values-sr.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -368,11 +368,30 @@
                     "startLine": 21,
                     "startColumn": 4,
                     "startOffset": 2013,
-                    "endColumn": 83,
-                    "endOffset": 2092
+                    "endColumn": 50,
+                    "endOffset": 2059
                 },
                 "from": {
-                    "file": "/home/karan/.android/build-cache/0ac7950fc10e70a42836d16e8d4e817da4df2e82/output/res/values-sr/values-sr.xml",
+                    "file": "/home/ashar/AndroidStudioProjects/Aegis/app/src/main/res/values-sr/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 2,
+                        "startOffset": 721,
+                        "endColumn": 48,
+                        "endOffset": 767
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2064,
+                    "endColumn": 83,
+                    "endOffset": 2143
+                },
+                "from": {
+                    "file": "/home/ashar/.android/build-cache/de1f6672323080524da9b30b0a2c2fe30952757f/output/res/values-sr/values-sr.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -384,14 +403,14 @@
             },
             {
                 "to": {
-                    "startLine": 22,
+                    "startLine": 23,
                     "startColumn": 4,
-                    "startOffset": 2097,
+                    "startOffset": 2148,
                     "endColumn": 100,
-                    "endOffset": 2193
+                    "endOffset": 2244
                 },
                 "from": {
-                    "file": "/home/karan/.android/build-cache/0ac7950fc10e70a42836d16e8d4e817da4df2e82/output/res/values-sr/values-sr.xml",
+                    "file": "/home/ashar/.android/build-cache/de1f6672323080524da9b30b0a2c2fe30952757f/output/res/values-sr/values-sr.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,

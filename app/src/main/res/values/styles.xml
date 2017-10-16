@@ -15,7 +15,7 @@
 
 <resources>
 
-    <style name="PreferenceThemeOverlay.v14.Permissions">
+   <!-- <style name="PreferenceThemeOverlay.v14.Permissions">
         <item name="preferenceStyle">@style/Preference.Permissions</item>
         <item name="preferenceCategoryStyle">@style/Preference.Category.Permissions</item>
         <item name="switchPreferenceStyle">@style/Preference.SwitchPreference.Permissions</item>
@@ -31,7 +31,7 @@
 
     <style name="Preference.SwitchPreference.Permissions">
         <item name="layout">@layout/preference_permissions_switch</item>
-    </style>
+    </style> -->
 
     <!-- Base application theme. -->
     <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
@@ -39,7 +39,7 @@
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
         <item name="android:navigationBarColor">@color/colorPrimaryDark</item>
-        <item name="preferenceTheme">@style/PreferenceThemeOverlay.v14.Permissions</item>
+        <!--<item name="preferenceTheme">@style/PreferenceThemeOverlay.v14.Permissions</item> -->
     </style>
 
     <style name="AppTheme.NoActionBar">

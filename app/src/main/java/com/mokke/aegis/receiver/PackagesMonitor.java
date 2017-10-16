@@ -22,20 +22,31 @@ import android.content.Context;
 import android.content.Intent;
 import android.os.IBinder;
 import android.os.RemoteException;
-import android.os.ServiceManager;
 import android.os.UserHandle;
 import android.text.TextUtils;
+
 
 import com.android.internal.app.IAppOpsService;
 import com.mokee.aegis.service.ManageHibernateService;
 
+import java.lang.reflect.InvocationTargetException;
+import java.lang.reflect.Method;
+
 public class PackagesMonitor extends BroadcastReceiver {
+
+    Class ServiceManager = Class.forName("android.os.ServiceManager");
+    @SuppressWarnings("unchecked")
+    Method getService = ServiceManager.getMethod("getService", String.class);
 
     public static final String PREF_AUTORUN = "appops_65";
     public static final String PREF_WAKELOCK = "appops_40";
     public static final String PREF_PACIFIER = "pacifier";
     public static final String PREF_HIBERNATE = "hibernate";
     public static final String PREF_WARDEN = "warden";
+
+    public PackagesMonitor() throws ClassNotFoundException, NoSuchMethodException {
+
+    }
 
     @Override
     public void onReceive(Context context, Intent intent) {
@@ -47,11 +58,14 @@ public class PackagesMonitor extends BroadcastReceiver {
             String packageName = intent.getData().getSchemeSpecificPart();
             if (!TextUtils.isEmpty(packageName)) {
                 try {
-                    IBinder iBinder = ServiceManager.getService(Context.APP_OPS_SERVICE);
+                    Method myUserId = UserHandle.class.getMethod("myUserId",void.class);
+                    IBinder iBinder = ((IBinder) getService.invoke(ServiceManager, Context.APP_OPS_SERVICE));
                     IAppOpsService mAppOps = IAppOpsService.Stub.asInterface(iBinder);
-                    mAppOps.removePacifierPackageInfoFromUid(UserHandle.myUserId(), packageName, UserHandle.myUserId());
-                    mAppOps.removeWardenPackageInfoFromUid(UserHandle.myUserId(), packageName, UserHandle.myUserId());
-                } catch (RemoteException e) {
+                    mAppOps.removePacifierPackageInfoFromUid(myUserId.invoke(UserHandle.class), packageName, myUserId.invoke(UserHandle.class));
+                    mAppOps.removeWardenPackageInfoFromUid(myUserId.invoke(UserHandle.class), packageName,myUserId.invoke(UserHandle.class));
+                } catch (RemoteException ignored) {
+                } catch (InvocationTargetException | IllegalAccessException | NoSuchMethodException e) {
+                    e.printStackTrace();
                 }
                 context.getSharedPreferences(PREF_AUTORUN, Context.MODE_PRIVATE).edit().remove(packageName).apply();
                 context.getSharedPreferences(PREF_WAKELOCK, Context.MODE_PRIVATE).edit().remove(packageName).apply();

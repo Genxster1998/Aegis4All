@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/home/karan/Workspace/AndroidStudioProjects/Aegis4All2/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rIN/values-en-rIN.xml",
+        "outputFile": "/home/ashar/AndroidStudioProjects/Aegis/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rIN/values-en-rIN.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 154
                 },
                 "from": {
-                    "file": "/home/karan/.android/build-cache/0ac7950fc10e70a42836d16e8d4e817da4df2e82/output/res/values-en-rIN/values-en-rIN.xml",
+                    "file": "/home/ashar/.android/build-cache/de1f6672323080524da9b30b0a2c2fe30952757f/output/res/values-en-rIN/values-en-rIN.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 262
                 },
                 "from": {
-                    "file": "/home/karan/.android/build-cache/0ac7950fc10e70a42836d16e8d4e817da4df2e82/output/res/values-en-rIN/values-en-rIN.xml",
+                    "file": "/home/ashar/.android/build-cache/de1f6672323080524da9b30b0a2c2fe30952757f/output/res/values-en-rIN/values-en-rIN.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 385
                 },
                 "from": {
-                    "file": "/home/karan/.android/build-cache/0ac7950fc10e70a42836d16e8d4e817da4df2e82/output/res/values-en-rIN/values-en-rIN.xml",
+                    "file": "/home/ashar/.android/build-cache/de1f6672323080524da9b30b0a2c2fe30952757f/output/res/values-en-rIN/values-en-rIN.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -68,7 +68,7 @@
                     "endOffset": 485
                 },
                 "from": {
-                    "file": "/home/karan/.android/build-cache/0ac7950fc10e70a42836d16e8d4e817da4df2e82/output/res/values-en-rIN/values-en-rIN.xml",
+                    "file": "/home/ashar/.android/build-cache/de1f6672323080524da9b30b0a2c2fe30952757f/output/res/values-en-rIN/values-en-rIN.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -87,7 +87,7 @@
                     "endOffset": 593
                 },
                 "from": {
-                    "file": "/home/karan/.android/build-cache/0ac7950fc10e70a42836d16e8d4e817da4df2e82/output/res/values-en-rIN/values-en-rIN.xml",
+                    "file": "/home/ashar/.android/build-cache/de1f6672323080524da9b30b0a2c2fe30952757f/output/res/values-en-rIN/values-en-rIN.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -106,7 +106,7 @@
                     "endOffset": 677
                 },
                 "from": {
-                    "file": "/home/karan/.android/build-cache/0ac7950fc10e70a42836d16e8d4e817da4df2e82/output/res/values-en-rIN/values-en-rIN.xml",
+                    "file": "/home/ashar/.android/build-cache/de1f6672323080524da9b30b0a2c2fe30952757f/output/res/values-en-rIN/values-en-rIN.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -125,7 +125,7 @@
                     "endOffset": 777
                 },
                 "from": {
-                    "file": "/home/karan/.android/build-cache/0ac7950fc10e70a42836d16e8d4e817da4df2e82/output/res/values-en-rIN/values-en-rIN.xml",
+                    "file": "/home/ashar/.android/build-cache/de1f6672323080524da9b30b0a2c2fe30952757f/output/res/values-en-rIN/values-en-rIN.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -144,7 +144,7 @@
                     "endOffset": 892
                 },
                 "from": {
-                    "file": "/home/karan/.android/build-cache/0ac7950fc10e70a42836d16e8d4e817da4df2e82/output/res/values-en-rIN/values-en-rIN.xml",
+                    "file": "/home/ashar/.android/build-cache/de1f6672323080524da9b30b0a2c2fe30952757f/output/res/values-en-rIN/values-en-rIN.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -163,7 +163,7 @@
                     "endOffset": 969
                 },
                 "from": {
-                    "file": "/home/karan/.android/build-cache/0ac7950fc10e70a42836d16e8d4e817da4df2e82/output/res/values-en-rIN/values-en-rIN.xml",
+                    "file": "/home/ashar/.android/build-cache/de1f6672323080524da9b30b0a2c2fe30952757f/output/res/values-en-rIN/values-en-rIN.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -182,7 +182,7 @@
                     "endOffset": 1045
                 },
                 "from": {
-                    "file": "/home/karan/.android/build-cache/0ac7950fc10e70a42836d16e8d4e817da4df2e82/output/res/values-en-rIN/values-en-rIN.xml",
+                    "file": "/home/ashar/.android/build-cache/de1f6672323080524da9b30b0a2c2fe30952757f/output/res/values-en-rIN/values-en-rIN.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -201,7 +201,7 @@
                     "endOffset": 1127
                 },
                 "from": {
-                    "file": "/home/karan/.android/build-cache/0ac7950fc10e70a42836d16e8d4e817da4df2e82/output/res/values-en-rIN/values-en-rIN.xml",
+                    "file": "/home/ashar/.android/build-cache/de1f6672323080524da9b30b0a2c2fe30952757f/output/res/values-en-rIN/values-en-rIN.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -220,7 +220,7 @@
                     "endOffset": 1230
                 },
                 "from": {
-                    "file": "/home/karan/.android/build-cache/0ac7950fc10e70a42836d16e8d4e817da4df2e82/output/res/values-en-rIN/values-en-rIN.xml",
+                    "file": "/home/ashar/.android/build-cache/de1f6672323080524da9b30b0a2c2fe30952757f/output/res/values-en-rIN/values-en-rIN.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -239,7 +239,7 @@
                     "endOffset": 1334
                 },
                 "from": {
-                    "file": "/home/karan/.android/build-cache/0ac7950fc10e70a42836d16e8d4e817da4df2e82/output/res/values-en-rIN/values-en-rIN.xml",
+                    "file": "/home/ashar/.android/build-cache/de1f6672323080524da9b30b0a2c2fe30952757f/output/res/values-en-rIN/values-en-rIN.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -258,7 +258,7 @@
                     "endOffset": 1433
                 },
                 "from": {
-                    "file": "/home/karan/.android/build-cache/0ac7950fc10e70a42836d16e8d4e817da4df2e82/output/res/values-en-rIN/values-en-rIN.xml",
+                    "file": "/home/ashar/.android/build-cache/de1f6672323080524da9b30b0a2c2fe30952757f/output/res/values-en-rIN/values-en-rIN.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -277,7 +277,7 @@
                     "endOffset": 1538
                 },
                 "from": {
-                    "file": "/home/karan/.android/build-cache/0ac7950fc10e70a42836d16e8d4e817da4df2e82/output/res/values-en-rIN/values-en-rIN.xml",
+                    "file": "/home/ashar/.android/build-cache/de1f6672323080524da9b30b0a2c2fe30952757f/output/res/values-en-rIN/values-en-rIN.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -296,7 +296,7 @@
                     "endOffset": 1641
                 },
                 "from": {
-                    "file": "/home/karan/.android/build-cache/0ac7950fc10e70a42836d16e8d4e817da4df2e82/output/res/values-en-rIN/values-en-rIN.xml",
+                    "file": "/home/ashar/.android/build-cache/de1f6672323080524da9b30b0a2c2fe30952757f/output/res/values-en-rIN/values-en-rIN.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -315,7 +315,7 @@
                     "endOffset": 1745
                 },
                 "from": {
-                    "file": "/home/karan/.android/build-cache/0ac7950fc10e70a42836d16e8d4e817da4df2e82/output/res/values-en-rIN/values-en-rIN.xml",
+                    "file": "/home/ashar/.android/build-cache/de1f6672323080524da9b30b0a2c2fe30952757f/output/res/values-en-rIN/values-en-rIN.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -334,7 +334,7 @@
                     "endOffset": 1864
                 },
                 "from": {
-                    "file": "/home/karan/.android/build-cache/0ac7950fc10e70a42836d16e8d4e817da4df2e82/output/res/values-en-rIN/values-en-rIN.xml",
+                    "file": "/home/ashar/.android/build-cache/de1f6672323080524da9b30b0a2c2fe30952757f/output/res/values-en-rIN/values-en-rIN.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -353,7 +353,7 @@
                     "endOffset": 1964
                 },
                 "from": {
-                    "file": "/home/karan/.android/build-cache/0ac7950fc10e70a42836d16e8d4e817da4df2e82/output/res/values-en-rIN/values-en-rIN.xml",
+                    "file": "/home/ashar/.android/build-cache/de1f6672323080524da9b30b0a2c2fe30952757f/output/res/values-en-rIN/values-en-rIN.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -368,11 +368,30 @@
                     "startLine": 21,
                     "startColumn": 4,
                     "startOffset": 1969,
-                    "endColumn": 81,
-                    "endOffset": 2046
+                    "endColumn": 49,
+                    "endOffset": 2014
                 },
                 "from": {
-                    "file": "/home/karan/.android/build-cache/0ac7950fc10e70a42836d16e8d4e817da4df2e82/output/res/values-en-rIN/values-en-rIN.xml",
+                    "file": "/home/ashar/AndroidStudioProjects/Aegis/app/src/main/res/values-en-rIN/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 2,
+                        "startOffset": 721,
+                        "endColumn": 47,
+                        "endOffset": 766
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2019,
+                    "endColumn": 81,
+                    "endOffset": 2096
+                },
+                "from": {
+                    "file": "/home/ashar/.android/build-cache/de1f6672323080524da9b30b0a2c2fe30952757f/output/res/values-en-rIN/values-en-rIN.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -384,14 +403,14 @@
             },
             {
                 "to": {
-                    "startLine": 22,
+                    "startLine": 23,
                     "startColumn": 4,
-                    "startOffset": 2051,
+                    "startOffset": 2101,
                     "endColumn": 100,
-                    "endOffset": 2147
+                    "endOffset": 2197
                 },
                 "from": {
-                    "file": "/home/karan/.android/build-cache/0ac7950fc10e70a42836d16e8d4e817da4df2e82/output/res/values-en-rIN/values-en-rIN.xml",
+                    "file": "/home/ashar/.android/build-cache/de1f6672323080524da9b30b0a2c2fe30952757f/output/res/values-en-rIN/values-en-rIN.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,

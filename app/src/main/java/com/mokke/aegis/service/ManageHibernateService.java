@@ -52,14 +52,15 @@ public class ManageHibernateService extends Service {
             if (action.equals(Intent.ACTION_SCREEN_OFF)) {
                 for (Map.Entry<String, ?> entry : apps.entrySet()) {
                     if ((Boolean)entry.getValue() && !mUsageStats.isAppInactive(entry.getKey())) {
-                        mUsageStats.setAppInactive(entry.getKey(), true);
+                        //mUsageStats.setAppInactive(entry.getKey(), true);
+
                     }
                 }
             } else if (action.equals(Intent.ACTION_SCREEN_ON)) {
                 if (PreferenceManager.getDefaultSharedPreferences(mContext).getBoolean(KEY_AEGIS_HIBERNATE_WAKEUP, false)) {
                     for (Map.Entry<String, ?> entry : apps.entrySet()) {
                         if ((Boolean)entry.getValue() && mUsageStats.isAppInactive(entry.getKey())) {
-                            mUsageStats.setAppInactive(entry.getKey(), false);
+                            //mUsageStats.setAppInactive(entry.getKey(), false);
                         }
                     }
                 }
