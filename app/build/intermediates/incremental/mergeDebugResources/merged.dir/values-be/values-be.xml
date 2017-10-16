@@ -19,6 +19,32 @@
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Абагуліць з"</string>
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Абагуліць з %s"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Згарнуць"</string>
+    <string name="action_settings">Настройкі</string>
+    <string name="app_name">Абаронца</string>
+    <string name="autorun_allow_list_category_title">Дазволіць аўтаматычны запуск</string>
+    <string name="autorun_deny_list_category_title">Забараніць аўтаматычны запуск</string>
+    <string name="autorun_title">Аўтаматычны запуск</string>
+    <string name="hibernate_allow_list_category_title">Прыпыніць прыкладу, калі экран выключаны</string>
+    <string name="hibernate_category_title">Расшыранныя настройкі прыпыненняў</string>
+    <string name="hibernate_deny_list_category_title">Не прыпыняць прыкладу, калі экран выключаны</string>
+    <string name="hibernate_title">Прыпыненне</string>
+    <string name="hibernate_wakeup_summary">Абуджаць прыпыненную прыкладу, калі экран уключаны</string>
+    <string name="hibernate_wakeup_title">Абуджэнне</string>
+    <string name="loading">Загрузка\u2026</string>
+    <string name="no_apps">Няма прыкладанняў</string>
+    <string name="pacifier_allow_list_category_title">Дазваляць прыкладзе пасылаць запыт спыненным і звязанным прыкладам</string>
+    <string name="pacifier_analyzing">Аналіз паводзін прыклады, калі ласка вяртайцеся пазней</string>
+    <string name="pacifier_deny_list_category_title">Забараніць прыкладзе пасылаць запыт спыненным і звязанным прыкладам</string>
+    <string name="pacifier_title">Супакой</string>
     <string msgid="146198913615257606" name="search_menu_title">"Пошук"</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"больш за 999"</string>
+    <string name="wakelock_allow_list_category_title">Дазволіць будзіць прыладу</string>
+    <string name="wakelock_deny_list_category_title">Забараніць будзіць прыладу</string>
+    <string name="wakelock_title">Абуджэнне прылады</string>
+    <string name="warden_allow_list_category_title">Дазволіць прыкладзе запускаць фонавыя працэссы, калі яно не запушчана</string>
+    <string name="warden_category_title">Расшыранныя настройкі наглядчыка</string>
+    <string name="warden_deny_list_category_title">Не дазваляць прыкладзе запускаць фонавыя працэссы, калі яно не запушчана</string>
+    <string name="warden_force_stop_summary">Прымусова спыняць работу прыклады, калі вы жадаеце выйсці</string>
+    <string name="warden_force_stop_title">Прымусовае спыненне</string>
+    <string name="warden_title">Наглядчык</string>
 </resources>

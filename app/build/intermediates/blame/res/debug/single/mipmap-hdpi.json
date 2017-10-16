@@ -1,10 +1,18 @@
 [
     {
+        "merged": "/home/karan/Workspace/AndroidStudioProjects/Aegis/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher_round.png",
+        "source": "/home/karan/Workspace/AndroidStudioProjects/Aegis/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
         "merged": "/home/ashar/AndroidStudioProjects/Aegis/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
         "source": "/home/ashar/AndroidStudioProjects/Aegis/app/src/main/res/mipmap-hdpi/ic_launcher.png"
     },
     {
         "merged": "/home/ashar/AndroidStudioProjects/Aegis/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher_round.png",
         "source": "/home/ashar/AndroidStudioProjects/Aegis/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/karan/Workspace/AndroidStudioProjects/Aegis/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/home/karan/Workspace/AndroidStudioProjects/Aegis/app/src/main/res/mipmap-hdpi/ic_launcher.png"
     }
 ]
