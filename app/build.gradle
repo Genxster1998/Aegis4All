@@ -25,5 +25,12 @@ dependencies {
         exclude group: 'com.android.support', module: 'support-annotations'
     })
     compile 'com.android.support:appcompat-v7:26.+'
+    compile 'com.android.support:design:26.+'
+    compile 'com.android.support:support-v4:26+'
+    compile 'com.android.support:support-v13:26.+'
+    compile 'com.android.support:recyclerview-v7:26.+'
+    compile 'com.android.support:preference-v7:26.+'
+    compile 'com.android.support:preference-v14:26.+'
+    compile 'org.cyanogenmod:platform.sdk:6.+'
     testCompile 'junit:junit:4.12'
 }
