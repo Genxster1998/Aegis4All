@@ -1,6 +1,8 @@
 # Aegis
+Failed due to missing Android System Level Classes and some special dependencies .
+App can be built only along with Mokee ROM .
 
-### Work in progress. Feel free to contribute and make this project a success.
+### Work not in progress.Stopped! Feel free to contribute and make this project a success.
 
 Porting Aegis from MoKee Rom to all android devices 
 
